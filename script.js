@@ -26,7 +26,7 @@ function sendMessage() {
         
         setTimeout(() => {
             
-            appendMessage('bot', 'This Source Coded By Siddhant Gupta ');
+            appendMessage('bot', 'This Source Coded By Shubhranshu ');
             
             buttonIcon.classList.add('fa-solid', 'fa-paper-plane');
             buttonIcon.classList.remove('fas', 'fa-spinner', 'fa-pulse');
